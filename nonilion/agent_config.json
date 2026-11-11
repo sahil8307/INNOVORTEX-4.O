@@ -1,0 +1,17 @@
+{
+  "agent_name": "OmniChief",
+  "tagline": "Autonomous Chief of Staff & Operations Strategist",
+  "avatar_type": "Executive / Strategist",
+  "provider": "Gemini",
+  "model": "gemini-2.0-flash",
+  "capabilities": [
+    "formatted_chat_replies",
+    "dynamic_chart_rendering",
+    "csv_json_artifacts",
+    "edge_case_detection",
+    "room_team_mentions"
+  ],
+  "suggested_room": "Strategy War Room",
+  "webhook_url": "https://omnichief-nonilion-agent.onrender.com/webhook",
+  "created_for": "INNOVORTEX 4.0 - Nonilion Track"
+}
